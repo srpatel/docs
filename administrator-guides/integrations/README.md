@@ -61,6 +61,7 @@ class Script {
     return {
       content:{
         text: request.content.text
+        // channel: "#new-channel-name",
         // "attachments": [{
         //   "color": "#FF0000",
         //   "author_name": "Rocket.Cat",
